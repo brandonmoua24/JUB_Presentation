@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://media4.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=ecf05e479hc9rh4yk1bffic7bxm2x4mt7dq128bi561kl8sr&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-size: cover; 
+    background-position: center; 
+    margin: 0;
+}
+
+.homepage-container {
+    color: white;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20%;
+    width: 80%;
+}
